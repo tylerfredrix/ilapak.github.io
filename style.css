@@ -1,0 +1,91 @@
+h1 {
+background-color: navy;
+color:yellow;
+font-size: 50px;
+text-align: center;
+margin-bottom: 2px;
+}
+p {
+    font-size: 20px;
+    color: white;
+}
+nav {
+    color: red;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: left;
+    border:solid red;
+    border-right: -120px;
+}
+.title {
+    font-weight: bold;
+    text-decoration: underline red 2px;
+}
+li {
+    font-size: 20px;
+    color: white;
+}
+details {
+    background-color: blue;
+    padding: 20px 20px 20px 5px ;
+}
+summary {
+    font-size: 25px;
+    font-weight: bold;
+    color: yellow;
+}
+button {
+    background-color: red;
+    color:black;
+    height: 30px;
+    width: 150px;
+    font-weight:bold;
+}
+
+body {
+    background-color:navy;
+}
+figcaption {
+    color: white;
+}
+a {
+    color: red;
+
+}
+.button {
+    color: white;
+    font-weight: bold;
+}
+footer {
+    margin-top: 200px;
+    margin-bottom: 20px;
+    color: grey;
+    font-size: 10px;
+}
+.sl {
+    color: yellow;
+    font-size: 10px;
+}
+.deets {
+   color: yellow;
+}
+.trbls {
+    border: solid 5px;
+    background-color: blue;
+}
+.opening {
+    text-align: center;
+    color: yellow;
+    text-decoration: underline 2px red;
+    font-size: 30px;
+}
+.loto {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: yellow;
+    
+}
+.logos {
+    margin: 0 20px 0 50px;
+}
